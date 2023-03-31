@@ -1,0 +1,10 @@
+.li-row {
+  list-style-type: none;
+  padding-left: 0;
+}
+.thumbnail-img {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  cursor: pointer;
+}

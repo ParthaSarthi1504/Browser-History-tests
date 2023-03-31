@@ -1,0 +1,20 @@
+.li-row {
+  list-style-type: none;
+  padding-left: 0;
+}
+.li-item {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  padding-bottom: 10px;
+  width: 80px;
+  border-bottom: 2px solid #ffffff;
+  cursor: pointer;
+  text-align: center;
+}
+
+.orange-color {
+  color: #fec653;
+  border-color: #fec653;
+}
